@@ -1,5 +1,7 @@
 # Introduction to Unit Testing with Python and GitHub
 
+[![Unit tests](https://github.com/ImperialCollegeLondon/rsecourse/actions/workflows/run_tests.yml/badge.svg)](https://github.com/ImperialCollegeLondon/rsecourse/actions/workflows/run_tests.yml)
+
 This repository accompanies the Oxford RSE online course delivered on 17 Feb 2021.
 
 ## Getting started
